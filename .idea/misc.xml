@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/HarishReddy/WebEngageSdkIntegration/app/src/main/res/drawable/bg_round_corner_orange.xml" value="0.18385416666666668" />
+        <entry key="..\:/HarishReddy/WebEngageSdkIntegration/app/src/main/res/drawable/ic_location_24.xml" value="0.1" />
+        <entry key="..\:/HarishReddy/WebEngageSdkIntegration/app/src/main/res/drawable/inotification_icon.xml" value="0.1" />
+        <entry key="..\:/HarishReddy/WebEngageSdkIntegration/app/src/main/res/layout/activity_login.xml" value="0.3333333333333333" />
+        <entry key="..\:/HarishReddy/WebEngageSdkIntegration/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/HarishReddy/WebEngageSdkIntegration/app/src/main/res/layout/activity_profile.xml" value="0.3333333333333333" />
+        <entry key="..\:/HarishReddy/WebEngageSdkIntegration/app/src/main/res/layout/activity_register.xml" value="0.3333333333333333" />
+        <entry key="..\:/HarishReddy/WebEngageSdkIntegration/app/src/main/res/layout/my_backup_rules.xml" value="0.1" />
+        <entry key="..\:/HarishReddy/WebEngageSdkIntegration/app/src/main/res/xml/my_backup_rules.xml" value="0.16770833333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

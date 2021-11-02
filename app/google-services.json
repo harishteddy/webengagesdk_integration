@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "752105320857",
+    "project_id": "webengagesdkintegration",
+    "storage_bucket": "webengagesdkintegration.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752105320857:android:412ba9a34ec8cb7d6e2308",
+        "android_client_info": {
+          "package_name": "com.example.webengagesdkintegration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752105320857-qnsae8lnskaoc2jju9fdtdtdmenfkvlt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRoH3LKszdORW8cOH2Bvxkcke_SkY1E80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752105320857-qnsae8lnskaoc2jju9fdtdtdmenfkvlt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
