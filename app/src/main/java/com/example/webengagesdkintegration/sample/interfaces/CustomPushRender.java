@@ -8,6 +8,4 @@ public interface CustomPushRender {
 
     boolean onRender(Context context, PushNotificationData pushNotificationData);
 
-
-
 }

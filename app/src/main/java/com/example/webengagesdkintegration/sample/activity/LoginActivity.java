@@ -18,16 +18,12 @@ import com.webengage.sdk.android.User;
 import com.webengage.sdk.android.WebEngage;
 import com.webengage.sdk.android.utils.Gender;
 
-
-
-
 public class LoginActivity extends AppCompatActivity implements View.OnClickListener {
     private EditText edIdentity;
     User weUser = WebEngage.get().user();
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
 
         boolean isUserLoggedIn = SharedPreferenceHelper.getBoolean(this, Keys.IS_USER_LOGGED_IN, false);
         String loggedInUserIdentity = SharedPreferenceHelper.getString(this, Keys.LOGGED_IN_USER_IDENTITY, null);
